@@ -1,24 +1,57 @@
-Java Install
-Some PCs might have Java already installed.
+## Day 02 of Java
+____________________________
 
-To check if you have Java installed on a Windows PC, search in the start bar for Java or type the following in Command Prompt (cmd.exe):
+## History of Java
 
-C:\Users\Your Name>java -version
-If Java is installed, you will see something like this (depending on version):
+Java is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain. I will list down some of the key advantages of learning Java Programming:
 
-java version "11.0.1" 2018-10-16 LTS
-Java(TM) SE Runtime Environment 18.9 (build 11.0.1+13-LTS)
-Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.1+13-LTS, mixed mode)
-If you do not have Java installed on your computer, you can download it for free at oracle.com.
+Object Oriented − In Java, everything is an Object. Java can be easily extended since it is based on the Object model.
+## Data Types
 
-Note: In this tutorial, we will write Java code in a text editor. However, it is possible to write Java in an Integrated Development Environment, such as IntelliJ IDEA, Netbeans or Eclipse, which are particularly useful when managing larger collections of Java files.
+## Arithmetic Operators
 
-Setup for Windows
-To install Java on Windows:
+Java provides a rich set of operators to manipulate variables. We can divide all the Java operators into the following groups −
 
-Go to "System Properties" (Can be found on Control Panel > System and Security > System > Advanced System Settings)
-Click on the "Environment variables" button under the "Advanced" tab
-Then, select the "Path" variable in System variables and click on the "Edit" button
-Click on the "New" button and add the path where Java is installed, followed by \bin. By default, Java is installed in C:\Program Files\Java\jdk-11.0.1 (If nothing else was specified when you installed it). In that case, You will have to add a new path with: C:\Program Files\Java\jdk-11.0.1\bin
-Then, click "OK", and save the settings
-At last, open Command Prompt (cmd.exe) and type java -version to see if Java is running on your machine
+- Arithmetic Operators
+- Relational Operators
+- Bitwise Operators
+- Logical Operators
+- Assignment Operators
+- Misc Operators
+
+The Arithmetic Operators
+
+Arithmetic operators are used in mathematical expressions in the same way that they are used in algebra. The following table lists the arithmetic operators −
+
+Assume integer variable A holds 10 and variable B holds 20, then −
+
+[Show Examples](https://www.tutorialspoint.com/java/java_arithmatic_operators_examples.htm)
+
+| **Operator** | **Description** | **Example** |
+| --- | --- | --- |
+| + (Addition) | Adds values on either side of the operator. | A + B will give 30 |
+| - (Subtraction) | Subtracts right-hand operand from left-hand operand. | A - B will give -10 |
+| \* (Multiplication) | Multiplies values on either side of the operator. | A \* B will give 200 |
+| / (Division) | Divides left-hand operand by right-hand operand. | B / A will give 2 |
+| % (Modulus) | Divides left-hand operand by right-hand operand and returns remainder. | B % A will give 0 |
+| ++ (Increment) | Increases the value of operand by 1. | B++ gives 21 |
+| -- (Decrement) | Decreases the value of operand by 1. | B-- gives 19 |
+
+The Relational Operators
+
+There are following relational operators supported by Java language.
+
+Assume variable A holds 10 and variable B holds 20, then −
+
+[Show Examples](https://www.tutorialspoint.com/java/java_relational_operators_examples.htm)
+
+| **Operator** | **Description** | **Example** |
+| --- | --- | --- |
+| == (equal to) | Checks if the values of two operands are equal or not, if yes then condition becomes true. | (A == B) is not true. |
+| != (not equal to) | Checks if the values of two operands are equal or not, if values are not equal then condition becomes true. | (A != B) is true. |
+| \> (greater than) | Checks if the value of left operand is greater than the value of right operand, if yes then condition becomes true. | (A \> B) is not true. |
+| \< (less than) | Checks if the value of left operand is less than the value of right operand, if yes then condition becomes true. | (A \< B) is true. |
+| \>= (greater than or equal to) | Checks if the value of left operand is greater than or equal to the value of right operand, if yes then condition becomes true. | (A \>= B) is not true. |
+| \<= (less than or equal to) | Checks if the value of left operand is less than or equal to the value of right operand, if yes then condition becomes true. | (A \<= B) is true. |
+
+
