@@ -21,12 +21,12 @@ A program is a series of instructions given to a computer which perform operatio
 
 ## Course Overview
 
-This course is a kick-start to learning web development, it is immersive and pragmatic. We learn by doing, and focus on understanding the principles of programming practice. Most of the class time will consist of lectures, assignments and projects.
+This course is a kick-start to learning test automation, it is immersive and pragmatic. We learn by doing, and focus on understanding the principles of programming practice. Most of the class time will consist of lectures, assignments and projects.
 
 ## Healthy Habits
 
 - Commit and push every day to get your progress recorded on GitHub to show potential employers you're active.
-- Ask for help if you've been stuck for 10 minutes, or if you don't understand a topic. Ask a neighbor, ask a TA, or ask an instructor.
+- Ask for help if you've been stuck for 10 minutes, or if you don't understand a topic. Ask a team member, ask a TA, or ask an instructor.
 - Ergonomics
   - good posture, reduce screen brightness and add a blue light filter
 - When faced with a new problem:
@@ -101,8 +101,8 @@ You are encouraged to use resources (docs, online, books, each other) to researc
 
 ## Attendance
 
-Students are expected to be on time and attend all scheduled class times. The school requires ninety percent (90%) completion of class hours in order to receive a certificate of completion from the course. Students can miss no more than 7 days for the day class and 9 days for the evening class. Students can also not be absent for more than 5 days consecutively (this includes weekends).
+Students are expected to be on time and attend all scheduled class times. The school requires ninety percent (90%) completion of class hours in order to receive a certificate of completion from the course. Students can miss no more than 7 days of class. Students can also not be absent for more than 5 days consecutively (this includes weekends).
 
-Any Student arriving more than 15 minutes late for scheduled class time will be marked tardy. Tardiness without legitimate reason on three different occasions will be counted as one absence.
+## Refund
 
 A student’s account is reviewed after 5 days from payment due date.  Accounts that remain unpaid or have not established a Repayment Agreement through our billing cycle will be issued a Final Notice.  Upon Final Notice students will be revoked from classes and no refunds will be issued.  Failure to maintain payments under the Repayment Agreement will result in an account being sent to collections.
