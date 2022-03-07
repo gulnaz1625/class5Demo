@@ -1,3 +1,12 @@
+## Lab 07 - Creating Patterns
+___
+
+Create a program that uses these patterns
+
+## Objective
+
+Write these programs
+
 
 ### 1) WAP to print the following pattern
 ```

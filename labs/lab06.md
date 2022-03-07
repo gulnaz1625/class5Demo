@@ -1,3 +1,10 @@
+## Lab 06 - Grades
+___
+
+Create a program that categorizes grades
+
+## Objective
+
 ### Question 1 ) Consider the marks of following five subjects  and print the Percentage and result based on that percentage.
 Georgian, English, Maths, Science, Computers. Marks should be out of 100.
 Percentage=(Total Marks of all 5 subjects/500)*100.
