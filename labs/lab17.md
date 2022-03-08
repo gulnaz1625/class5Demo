@@ -1,4 +1,4 @@
-## Lab 09 - Scanner / String Char
+## Lab 17 - Scanner / String Char
 ___
 
 Create a program that uses these formulas below
